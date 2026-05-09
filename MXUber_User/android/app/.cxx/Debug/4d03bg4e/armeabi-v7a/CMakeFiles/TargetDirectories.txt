@@ -1,0 +1,2 @@
+C:/Users/tusha/Downloads/MXUber_User_11_07/MXUber_User/android/app/.cxx/Debug/4d03bg4e/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/tusha/Downloads/MXUber_User_11_07/MXUber_User/android/app/.cxx/Debug/4d03bg4e/armeabi-v7a/CMakeFiles/rebuild_cache.dir

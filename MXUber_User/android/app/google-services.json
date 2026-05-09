@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "223143515606",
+    "firebase_url": "https://muber-cd733-default-rtdb.firebaseio.com",
+    "project_id": "muber-cd733",
+    "storage_bucket": "muber-cd733.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223143515606:android:1a26a0edbce878e2918077",
+        "android_client_info": {
+          "package_name": "com.mxuber.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjGRNRBf_UR5VSaOvqHdOwXMM_WaqZeXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223143515606:android:8a7d1d79512e3fd4918077",
+        "android_client_info": {
+          "package_name": "com.mxuber.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjGRNRBf_UR5VSaOvqHdOwXMM_WaqZeXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
